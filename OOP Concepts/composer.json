@@ -1,0 +1,8 @@
+{
+    "name": "sbs/oop",
+    "minimum-stability": "alpha",
+    "require-dev": {
+        "phpdocumentor/phpdocumentor": "2.*"
+    } ,
+    "require": {}
+}
