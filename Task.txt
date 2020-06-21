@@ -1,0 +1,16 @@
+-> oop concepts-done
+-> implement oops-done
+-> naming convention jquery and php ==> ( 
+Most Common Programming Case Types        )
+Ans: Camel case for variables and methods.
+Pascal case for types and classes .
+Upper  snake case for constants.
+kebab Case: Filename , url 
+
+-> php doc. ==>phpdoc 
+
+-> concepts  to  develop db with 5 normal forms 
+
+-> , cluster index and non cluster index
+Cluster index where repeated/unique data but sorted  only one in table .
+Composite index:One cluster index on many Columns ;
